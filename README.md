@@ -5,7 +5,11 @@ M1 : Sécurité des systèmes d'informations – Session 1 – 2021/2022 – Chr
 
 Dans le cadre de mes études , ce projet englobe la réalisation d'un formulaire de connection / inscription sécurisé.
 
-Languages utilisés : HTML CSS JavaScript et PhP.
+Languages utilisés : 
+- HTML pour la structure des pages
+- CSS pour la mise en forme
+- JavaScript pour la vérification des inputs
+- PhP pour la gestion des connexions
 
 Le projet ce compose de 2 pages HTML principales :
 
@@ -16,12 +20,14 @@ Ce projet a été realisé à l'aide de XAMPP pour activer les modules Apache HT
 
 Lien de téléchargement :   https://www.apachefriends.org/fr/download.html
 
-Pour facilitr l'utilisation, les identifiants de la base de données sont les valeurs par défaut. ( Username : 'root' ,  Password : '' )
+Pour facilitr l'utilisation, les identifiants de la base de données sont les valeurs par défaut. 
+
+ Username : 'root' /   Password : ''  
 
 La structure de la table 'tbl_users' sur PhpMyAdmin utilisée dans ce projet.
 
 
-![alt text](https://github.com/YasserRabhi/form/blob/main/sql.PNG?raw=true)
+![alt text](https://github.com/YasserRabhi/form/blob/main/images/sql.PNG?raw=true)
 
 
 RABHI Yasser
