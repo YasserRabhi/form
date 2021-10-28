@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<script type="text/javascript" src="js/verif.js"></script>  
+
+		<title> Gestionnaire d'identification </title>
+		<link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
+
+	</head>
+
+	<body>
+	<center>
+		<img src="images/icon.jpg" width="250" height="150">
+		<br>
+		
+		<form name="form1" method="post" action="php/connexion.php" onsubmit="return verif2()">
+			<h1>Connexion</h1>
+			E-mail : <input placeholder="Entrez votre email" name="login" type="email"> </input> <br>
+			Mot de passe :<input placeholder="Entrez votre mot de passe" name="mdp" type="password"> </input> <br>
+			<input type="reset" name="Reset">
+			<input type="submit" name="submit" value="OK" >
+
+		</form>
+		
+		<form action="adduser.html">
+			<input type="submit" value="Créer un nouveau compte" />
+		</form>
+
+	<div> </div>
+	</center>
+	</body>
+
+</html>
