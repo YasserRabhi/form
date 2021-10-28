@@ -11,7 +11,7 @@ Languages utilisés :
 - JavaScript pour la vérification des inputs
 - PhP pour la gestion et la sécurisation des connexions
 
-Le projet ce compose de 2 pages HTML principales :
+Le projet se compose de 2 pages HTML principales :
 
 - /home.html la page d'acceuil ainsi que la page d'identification.
 - /adduser.html la page d'inscription et d'ajout d'un nouveau compte.
