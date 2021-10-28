@@ -1,5 +1,4 @@
 <?php      
-    //include('connection.php');  
 	// database connection code
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'root');
@@ -38,13 +37,16 @@ else {
 
 		
         if($count == 1){  
-            echo "<h1><center> Bienvenue dans votre compte </center></h1>";  
+            echo "<h1><center> Bienvenue dans votre compte </center></h1>"; 
+			echo '<h1><center><p><a href="/projet/home.html" title="Retourner à la page">LOGOUT</a></p></center></h1>';
+			
         }  
         else{  
             echo "<h1><center> Email ou mot de passe incorrect</center></h1>"; 
+			echo '<h1><center><p><a href="/projet/home.html" title="Retourner à la page">HOME</a></p></center></h1>';
+
 
         }     
 		
-	echo '<p><a href="javascript:history.go(-1)" title="Retourner à la page">HOME</a></p>';
 
 ?>  
