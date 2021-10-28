@@ -9,7 +9,7 @@ Dans le cadre de mes études , ce projet englobe la réalisation d'un formulaire
 - HTML pour la structure des pages
 - CSS pour la mise en forme
 - JavaScript pour la vérification des inputs
-- PhP pour la gestion et la sécurisation des connexions
+- PhP pour la gestion (connextion à SQL) et la sécurisation (stripcslashes/ mysqli_real_escape_string / htmlspecialchars /password_hash) du site
 
 # Le projet se compose de 2 pages HTML principales :
 - /home.html la page d'acceuil ainsi que la page d'identification.
@@ -34,9 +34,10 @@ La structure de la table 'tbl_users' sur PhpMyAdmin utilisée dans ce projet.
 
 
 
+# 
 Pour faciliter l'utilisation, les identifiants de la base de données sont les valeurs par défaut. 
 
- Username : 'root' /   Password : ''  
+Username : 'root' /   Password : ''  
 
 
 RABHI Yasser
