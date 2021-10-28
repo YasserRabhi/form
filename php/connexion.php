@@ -45,6 +45,6 @@ else {
 
         }     
 		
-	echo '<p><a href="javascript:history.go(-1)" title="Retourner à la page">LOGOUT</a></p>';
+	echo '<p><a href="javascript:history.go(-1)" title="Retourner à la page">HOME</a></p>';
 
 ?>  
