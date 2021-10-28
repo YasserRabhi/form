@@ -11,6 +11,7 @@ Lien de téléchargement :   https://www.apachefriends.org/fr/download.html
 
 Pour facilitr l'utilisation, les identifiants de la base de données sont les valeurs par défaut. (Username : 'root' ,  Password : '')
 Un exemple 
+![alt text](https://github.com/YasserRabhi/form/sql.PNG?raw=true)
 
 
 RABHI Yasser
