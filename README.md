@@ -9,7 +9,7 @@ Languages utilisés :
 - HTML pour la structure des pages
 - CSS pour la mise en forme
 - JavaScript pour la vérification des inputs
-- PhP pour la gestion des connexions
+- PhP pour la gestion et la sécurisation des connexions
 
 Le projet ce compose de 2 pages HTML principales :
 
@@ -20,7 +20,7 @@ Ce projet a été realisé à l'aide de XAMPP pour activer les modules Apache HT
 
 Lien de téléchargement :   https://www.apachefriends.org/fr/download.html
 
-Pour facilitr l'utilisation, les identifiants de la base de données sont les valeurs par défaut. 
+Pour faciliter l'utilisation, les identifiants de la base de données sont les valeurs par défaut. 
 
  Username : 'root' /   Password : ''  
 
