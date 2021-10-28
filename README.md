@@ -9,9 +9,10 @@ Languages utilisés : HTML CSS JavaScript et PhP
 Ce projet a été realisé à l'aide de XAMPP pour activer les modules Apache HTTP Server et MySQL localement.
 Lien de téléchargement :   https://www.apachefriends.org/fr/download.html
 
-Pour facilitr l'utilisation, les identifiants de la base de données sont les valeurs par défaut. (Username : 'root' ,  Password : '')
-Un exemple 
-![alt text](https://github.com/YasserRabhi/form/sql.PNG?raw=true)
+Pour facilitr l'utilisation, les identifiants de la base de données sont les valeurs par défaut. ( Username : 'root' ,  Password : '' )
+
+La structure de la table 'tbl_users' sur PhpMyAdmin utilisée dans ce projet
+![alt text](https://github.com/YasserRabhi/form/blob/main/sql.PNG?raw=true)
 
 
 RABHI Yasser
